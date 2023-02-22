@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1 align="center">I'm Shuvo Podder</h1>
+<h3 align="center">Love to learn & passionate to make new things.</h3>
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=shuvopodder&style=flat-square&color=blue" alt=""/>
 </div>
